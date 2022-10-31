@@ -24,12 +24,11 @@
 This is a configuration file for the extension _DrivenByMoss_ to use the Midi Fighter Twister by DjTechTools with Bitwig Studio.
 
 ## File in this repository
-| File| Description                               
-|||
-| MF Twister Flexi Script.md                     | This file
-| centomila-MfTwisterFlexi-V1.0.mfs              | MF Twister Config File
-| centomila-MfTwisterFlexi-V1.0.properties       | Bitwig Flexi Configuration File
-| Midi Fighter Twister Flexi.ai                  | Illustrator Images for this documentation
+
+- MF Twister Flexi Script.md | This file
+- centomila-MfTwisterFlexi-V1.0.mfs | MF Twister Config File
+- centomila-MfTwisterFlexi-V1.0.properties | Bitwig Flexi Configuration File
+- Midi Fighter Twister Flexi.ai | Illustrator Images for this documentation
 
 ## Prerequisites
 - [Bitwig Studio](https://www.bitwig.com)
