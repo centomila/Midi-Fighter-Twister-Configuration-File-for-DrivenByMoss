@@ -29,6 +29,7 @@ This is a configuration file for the extension _DrivenByMoss_ to use the Midi Fi
 - centomila-MfTwisterFlexi-V1.0.mfs | MF Twister Config File
 - centomila-MfTwisterFlexi-V1.0.properties | Bitwig Flexi Configuration File
 - Midi Fighter Twister Flexi.ai | Illustrator Images for this documentation
+- centomila-MfTwister.zip | All files in this repository except for the AI file
 
 ## Prerequisites
 - [Bitwig Studio](https://www.bitwig.com)
